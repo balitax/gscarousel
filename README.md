@@ -26,7 +26,7 @@ import 'package:gscarousel/gscarousel.dart';
 
 Now, all you have to do is simply wrap your widget as a child of `GSCarousel`
 
-
+```dart
 new Container(
     child: new SizedBox(
     height: 140.0,
@@ -52,7 +52,6 @@ new Container(
     ),
 )
 ```
-
 
 
 ### Issues and feedback
